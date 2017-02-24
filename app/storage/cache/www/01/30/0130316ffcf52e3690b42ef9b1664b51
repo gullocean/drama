@@ -1,0 +1,285 @@
+1487834652s:19885:"<section class="content" data-bind="playVideos">
+	
+			<div class="jumbotron">
+			<div class="home-slider" data-bind="slider">
+			  				  		<div class="slide" style="background: url('http://www.dramaguru.net')">
+			  			<div class="overlay">
+			  				<section class="pull-left details-column">
+		                        <h2><a href="http://www.dramaguru.net">Edge of Tomorrow</a></h2>
+		                        <p>An officer finds himself caught in a time loop in a war with an alien race. His skills increase as he faces the same brutal combat scenarios, and his union with a Special Forces warrior gets him closer and closer to defeating the enemy.</p>
+		                        <ul class="slider-details list-unstyled">
+		                            		                                <li><strong>Directed By</strong>Doug Liman</li>
+		                            		                            		                                <li><strong>Stars</strong>Emily Blunt, Tom Cruise, Bill Paxton</li>
+		                            		                            		                                <li><strong>Genre</strong>Action, Science Fiction</li>
+		                            		                            		                        </ul>
+		                    </section>
+
+		                    	                            <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/yUmSVcttXnI" data-poster="">
+	                                <img src="" class="img-responsive">
+	                                <div class="overlay"></div>
+	                                <div class="center"><img src="http://www.dramaguru.net/assets/images/play.png"> </div>
+	                            </div>
+	                        			  			</div>
+			  		</div>
+			  				  		<div class="slide" style="background: url('http://www.dramaguru.net')">
+			  			<div class="overlay">
+			  				<section class="pull-left details-column">
+		                        <h2><a href="http://www.dramaguru.net">Transformers: Age of Extinction</a></h2>
+		                        <p>Fourth part of the Transformers series, which starts a new main characters changing history.</p>
+		                        <ul class="slider-details list-unstyled">
+		                            		                                <li><strong>Directed By</strong>Michael Bay</li>
+		                            		                            		                                <li><strong>Stars</strong>Nicola Peltz, Mark Wahlberg, Stanley Tucci</li>
+		                            		                            		                                <li><strong>Genre</strong>Action, Adventure, Science Fiction</li>
+		                            		                            		                        </ul>
+		                    </section>
+
+		                    	                            <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/ubGpDoyJvmI" data-poster="">
+	                                <img src="" class="img-responsive">
+	                                <div class="overlay"></div>
+	                                <div class="center"><img src="http://www.dramaguru.net/assets/images/play.png"> </div>
+	                            </div>
+	                        			  			</div>
+			  		</div>
+			  				  		<div class="slide" style="background: url('http://image.tmdb.org/t/p/w780/qrrkmt3erZJeRTFAKAgd3Z2bd4hw.jpg')">
+			  			<div class="overlay">
+			  				<section class="pull-left details-column">
+		                        <h2><a href="http://www.dramaguru.net">Dawn of the Planet of the Apes</a></h2>
+		                        <p>A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.</p>
+		                        <ul class="slider-details list-unstyled">
+		                            		                                <li><strong>Directed By</strong>Matt Reeves</li>
+		                            		                            		                                <li><strong>Stars</strong>Andy Serkis, Judy Greer, Terry Notary</li>
+		                            		                            		                                <li><strong>Genre</strong>Action, Drama, Science Fiction, Thriller</li>
+		                            		                            		                        </ul>
+		                    </section>
+
+		                    	                            <div id="trailer-box" class="pull-right trailer-column play" data-source="http://www.youtube.com/embed/rf5e7Xc1Hwk" data-poster="http://image.tmdb.org/t/p/w300/rjUl3pd1LHVOVdfG4IGcyA1cId5l.jpg">
+	                                <img src="http://image.tmdb.org/t/p/w300/rjUl3pd1LHVOVdfG4IGcyA1cId5l.jpg" class="img-responsive">
+	                                <div class="overlay"></div>
+	                                <div class="center"><img src="http://www.dramaguru.net/assets/images/play.png"> </div>
+	                            </div>
+	                        			  			</div>
+			  		</div>
+			  				</div>
+		</div>
+	
+    <div class="container ">
+
+		
+    	
+		<div class="col-sm-12 no-news">
+																		<section class="row  title-sizes">
+							<h2 class="heading"><i class="fa fa-eye"></i> Most Viewed</h2>
+
+							
+																								<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="https://www.youtube.com/embed/_5BgjCg0UXQ" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/1-humsafar"><img src="http://www.dramaguru.net/assets/uploads/images/gkU8OZ7I9U.jpg" alt="Humsafar" class="img-responsive"></a>
+											
+										</div>
+                                                                                    <div class="status">Available to stream!</div>
+                                        										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/1-humsafar">Humsafar</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/2-meri-zaat-zarraebenishan"><img src="http://www.dramaguru.net/assets/uploads/images/ihAUPlY2b1.jpg" alt="Meri Zaat Zarra-E-Benishan" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/2-meri-zaat-zarraebenishan">Meri Zaat Zarra-E-Benishan</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/3-maat"><img src="http://www.dramaguru.net/assets/uploads/images/ex147Ho19b.jpg" alt="Maat" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/3-maat">Maat</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/4-shehr-e-zaat"><img src="http://www.dramaguru.net/assets/uploads/images/ik1vWToAnf.jpg" alt="Shehr e Zaat" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/4-shehr-e-zaat">Shehr e Zaat</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/6-mera-naseeb"><img src="http://www.dramaguru.net/assets/uploads/images/1TNXFUFinL.png" alt="Mera Naseeb" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/6-mera-naseeb">Mera Naseeb</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/7-qaid-e-tanhai"><img src="http://www.dramaguru.net/assets/uploads/images/qBqTjoS3MD.jpg" alt="Qaid e Tanhai" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/7-qaid-e-tanhai">Qaid e Tanhai</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="https://www.youtube.com/watch?v=QD3LcLnNlMI" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/8-dastaan"><img src="http://www.dramaguru.net/assets/uploads/images/RQN12JKFpD.jpg" alt="Dastaan" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/8-dastaan">Dastaan</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/9-main-abdul-qadir-hoon"><img src="http://www.dramaguru.net/assets/uploads/images/omjKsrwQSN.jpg" alt="Main Abdul Qadir Hoon" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/9-main-abdul-qadir-hoon">Main Abdul Qadir Hoon</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="https://www.youtube.com/watch?v=gASqAfTytC8" data-poster="http://dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/10-ek-nazar-meri-taraf"><img src="http://www.dramaguru.net/assets/uploads/images/UxUPEQ0wpI.jpg" alt="Ek Nazar Meri Taraf" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/10-ek-nazar-meri-taraf">Ek Nazar Meri Taraf</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="https://www.youtube.com/watch?v=pEYE1XG5PXc" data-poster="http://www.dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/13-durr-e-shahwar"><img src="http://www.dramaguru.net/assets/uploads/images/ShcXtXPTI2.jpg" alt="Durr e Shahwar" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/13-durr-e-shahwar">Durr e Shahwar</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="https://www.youtube.com/watch?v=JbR6RNJrklQ" data-poster="http://dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/14-man-jali"><img src="http://www.dramaguru.net/assets/uploads/images/lnd2fC08dY.jpg" alt="Man Jali" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/14-man-jali">Man Jali</a>
+
+																					</figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<div class="" data-source="https://www.youtube.com/watch?v=or98hLp8VRQ" data-poster="http://dramaguru.net/assets/images/cinema.jpg">
+
+																							<a href="http://www.dramaguru.net/series/15-alpha-bravo-charlie"><img src="http://www.dramaguru.net/assets/uploads/images/FpiXCQ90lU.jpg" alt="Alpha Bravo Charlie" class="img-responsive"></a>
+											
+										</div>
+                                                                                                                            										<figcaption class="no-rating">
+											<a href="http://www.dramaguru.net/series/15-alpha-bravo-charlie">Alpha Bravo Charlie</a>
+
+																					</figcaption>
+									</figure>
+																					</section>
+							
+															<section class="row  title-sizes">
+							<h2 class="heading"><i class="fa fa-fire"></i> Top Actors/Actresses</h2>
+
+																								<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/1-fawad-khana"><img src="http://dramaguru.net/assets/uploads/images/MOF5mGeeLT.jpg" alt="Fawad Khana" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/1-fawad-khana">Fawad Khana</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/3-atiqa-odho"><img src="http://dramaguru.net/assets/uploads/images/mJ6XoSA7is.JPG" alt="Atiqa Odho" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/3-atiqa-odho">Atiqa Odho</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/5-mahira-khan"><img src="http://dramaguru.net/assets/uploads/images/4TA3rgwMaf.jpg" alt="Mahira Khan" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/5-mahira-khan">Mahira Khan</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/6-badar-munir"><img src="http://dramaguru.net/assets/uploads/images/hlN5FnmaER.jpg" alt="Badar Munir" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/6-badar-munir">Badar Munir</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/23-qasim-khan"><img src="http://dramaguru.net/assets/uploads/images/lD5acBF1hI.jpg" alt="Qasim Khan" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/23-qasim-khan">Qasim Khan</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/24-faraz-inam"><img src="http://dramaguru.net/assets/uploads/images/GONrh4gdFi.jpg" alt="Faraz Inam" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/24-faraz-inam">Faraz Inam</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/25-abdullah-mahmood"><img src="http://dramaguru.net/assets/uploads/images/ajNA8xlqvO.jpg" alt="Abdullah Mahmood" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/25-abdullah-mahmood">Abdullah Mahmood</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/26-shahnaz-khawaja"><img src="http://dramaguru.net/assets/uploads/images/S0xVO7GYB2.jpg" alt="Shahnaz Khawaja" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/26-shahnaz-khawaja">Shahnaz Khawaja</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/27-wiqar-ahmed"><img src="http://www.dramaguru.net/assets/images/imdbnoimage.jpg" alt="Wiqar Ahmed" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/27-wiqar-ahmed">Wiqar Ahmed</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/28-aarshid-kazmi"><img src="http://www.dramaguru.net/assets/images/imdbnoimage.jpg" alt="Aarshid Kazmi" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/28-aarshid-kazmi">Aarshid Kazmi</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/30-saba-hameed"><img src="http://dramaguru.net/assets/uploads/images/0PBrzjZ2Ld.jpg" alt="Saba Hameed" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/30-saba-hameed">Saba Hameed</a></figcaption>
+									</figure>
+																	<figure class="col-lg-2 col-md-3 col-sm-4  pretty-figure">
+										<a href="http://www.dramaguru.net/people/33-natasha-ali"><img src="http://dramaguru.net/assets/uploads/images/A8YlQuWSKh.jpg" alt="Natasha Ali" class="img-responsive"></a>
+										<figcaption><a href="http://www.dramaguru.net/people/33-natasha-ali">Natasha Ali</a></figcaption>
+									</figure>
+															
+													</section>
+							
+									</div>
+		
+		<!-- latest news-->
+				<!-- /latest news-->
+
+	</div>
+</section>
+
+<!-- video modal -->
+<div class="modal fade" id="vid-modal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+        	<button type="button" class="modal-close" data-dismiss="modal" aria-hidden="true"> 
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-times fa-stack-1x fa-inverse"></i>
+                </span>
+            </button>
+            <div class="modal-body"> </div>
+        </div>
+     </div>
+</div>
+<!-- /video modal -->";

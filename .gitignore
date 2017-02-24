@@ -1,0 +1,4 @@
+/node_modules
+/.idea
+ide_helper.php
+.env

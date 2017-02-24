@@ -1,0 +1,24 @@
+[11-Feb-2017 23:01:32 EET] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Exception\PlainDisplayer::display() must be an instance of Exception, instance of ParseError given, called in /home/dramagur/public_html/bootstrap/compiled.php on line 8875 and defined in /home/dramagur/public_html/vendor/laravel/framework/src/Illuminate/Exception/PlainDisplayer.php:15
+Stack trace:
+#0 /home/dramagur/public_html/bootstrap/compiled.php(8875): Illuminate\Exception\PlainDisplayer->display(Object(ParseError))
+#1 /home/dramagur/public_html/bootstrap/compiled.php(8827): Illuminate\Exception\Handler->displayException(Object(ParseError))
+#2 /home/dramagur/public_html/bootstrap/compiled.php(8831): Illuminate\Exception\Handler->handleException(Object(ParseError))
+#3 [internal function]: Illuminate\Exception\Handler->handleUncaughtException(Object(ParseError))
+#4 {main}
+  thrown in /home/dramagur/public_html/vendor/laravel/framework/src/Illuminate/Exception/PlainDisplayer.php on line 15
+[11-Feb-2017 23:01:34 EET] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Exception\PlainDisplayer::display() must be an instance of Exception, instance of ParseError given, called in /home/dramagur/public_html/bootstrap/compiled.php on line 8875 and defined in /home/dramagur/public_html/vendor/laravel/framework/src/Illuminate/Exception/PlainDisplayer.php:15
+Stack trace:
+#0 /home/dramagur/public_html/bootstrap/compiled.php(8875): Illuminate\Exception\PlainDisplayer->display(Object(ParseError))
+#1 /home/dramagur/public_html/bootstrap/compiled.php(8827): Illuminate\Exception\Handler->displayException(Object(ParseError))
+#2 /home/dramagur/public_html/bootstrap/compiled.php(8831): Illuminate\Exception\Handler->handleException(Object(ParseError))
+#3 [internal function]: Illuminate\Exception\Handler->handleUncaughtException(Object(ParseError))
+#4 {main}
+  thrown in /home/dramagur/public_html/vendor/laravel/framework/src/Illuminate/Exception/PlainDisplayer.php on line 15
+[11-Feb-2017 23:01:42 EET] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Exception\PlainDisplayer::display() must be an instance of Exception, instance of ParseError given, called in /home/dramagur/public_html/bootstrap/compiled.php on line 8875 and defined in /home/dramagur/public_html/vendor/laravel/framework/src/Illuminate/Exception/PlainDisplayer.php:15
+Stack trace:
+#0 /home/dramagur/public_html/bootstrap/compiled.php(8875): Illuminate\Exception\PlainDisplayer->display(Object(ParseError))
+#1 /home/dramagur/public_html/bootstrap/compiled.php(8827): Illuminate\Exception\Handler->displayException(Object(ParseError))
+#2 /home/dramagur/public_html/bootstrap/compiled.php(8831): Illuminate\Exception\Handler->handleException(Object(ParseError))
+#3 [internal function]: Illuminate\Exception\Handler->handleUncaughtException(Object(ParseError))
+#4 {main}
+  thrown in /home/dramagur/public_html/vendor/laravel/framework/src/Illuminate/Exception/PlainDisplayer.php on line 15

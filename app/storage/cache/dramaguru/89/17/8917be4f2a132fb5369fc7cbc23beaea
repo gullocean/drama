@@ -1,0 +1,28 @@
+9999999999s:458:"<li> <a  href="http://dramaguru.net/movies"
+	
+			>
+		Movies	
+</a> </li>
+        
+        
+                    <li> <a  href="http://dramaguru.net/series"
+	
+			>
+		TV Shows	
+</a> </li>
+        
+        
+                    <li> <a  href="http://dramaguru.net/people"
+	
+			>
+		People	
+</a> </li>
+        
+        
+                    <li> <a data-bind="visible: app.perm()" href="http://dramaguru.net/dashboard"
+	
+			>
+		Dashboard	
+</a> </li>
+        
+        ";
